@@ -1,0 +1,41 @@
+body
+{
+	background-color: #303030;
+	color: #FFFFFF;
+	font-family: Arial;
+	font-size: 15px;
+	margin: 0 !important;
+}
+.wrapper
+{
+	width: 100%;
+}
+
+.logo
+{
+	width: 450px;
+	font-size:48px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+header{
+	margin-right: auto;
+	margin-left: auto;
+	margin-top:30px;
+	margin-bottom: 30px;
+width: 500px;
+	text-align: center;
+
+}
+.content{
+width: 1000px;
+height: 1000px;
+margin:15px;
+margin-right: auto;
+margin-left: auto;
+}
+footer{
+width: 1000px;
+}

@@ -1,0 +1,6 @@
+BAZA DANYCH
+pass = cRXsxNgfcfpOzj
+
+Serwer/Host	userdb1
+Nazwa bazy	1219862_dXz114
+Użytkownik/User	1219862_dXz114
